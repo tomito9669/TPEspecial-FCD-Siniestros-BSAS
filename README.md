@@ -18,7 +18,20 @@ Este repositorio contiene el trabajo práctico especial del Grupo 01, realizado 
 
 ## Instalación de dependencias
 
-Para instalar las librerías necesarias, ejecutar en la terminal:
-
+- 1) Clonar el repositorio
+```bash
+git clone https://github.com/tomito9669/TPEspecial-FCD-Siniestros-BSAS.git 
+```
+- 2) Moverse a la carpeta del proyecto "TPEspecial-FCD-Siniestros-BSAS"
+```bash
+cd TPEspecial-FCD-Siniestros-BSAS
+```
+- 3) Dentro de la carpeta, crear el entorno virtual y activarlo
+```bash
+python -m venv env
+source env/bin/activate
+```
+- 4) Instalar las dependencias necesarias
 ```bash
 pip install -r requirements.txt
+```
