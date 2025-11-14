@@ -35,7 +35,7 @@ Sigue estos pasos para configurar el entorno local y ejecutar el proyecto:
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [https://github.com/tomito9669/TPEspecial-FCD-Siniestros-BSAS.git](https://github.com/tomito9669/TPEspecial-FCD-Siniestros-BSAS.git)
+    git clone https://github.com/tomito9669/TPEspecial-FCD-Siniestros-BSAS.git
     ```
 
 2.  **Moverse a la carpeta del proyecto:**
