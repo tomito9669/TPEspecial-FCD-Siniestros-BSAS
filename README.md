@@ -10,7 +10,7 @@ Este repositorio contiene el trabajo práctico especial del Grupo 01, realizado 
 ## Contenido del repositorio
 
 - `TPE.ipynb`: Notebook de Jupyter con todo el análisis de datos y las hipótesis planteadas.
-- `Informe TPE F. Cs Datos Grupo 1`: Informe escrito con hallazgos, discusión y conclusiones.
+- `Informe TPE F. Cs Datos Grupo 1.pdf`: Informe escrito con hallazgos, discusión y conclusiones.
 - `requirements.txt`: Archivo con las librerías necesarias para ejecutar la notebook.
 - `README.md`: Este archivo, con instrucciones de uso y ejecución.
 - `siniestros-2022.csv`: Conjunto de datos utilizado para el análisis.
