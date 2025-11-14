@@ -16,7 +16,7 @@ Este repositorio contiene el trabajo práctico especial del Grupo 01, realizado 
 - Jupyter Notebook o Visual Studio Code con la extensión de Jupyter instalada
 - Librerías listadas en `requirements.txt`
 
-## Instalación de dependencias
+## Pasos de instalación
 
 - 1) Clonar el repositorio
 ```bash
